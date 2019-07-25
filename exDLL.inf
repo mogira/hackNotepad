@@ -1,0 +1,18 @@
+[SETTING]
+;16進数で
+
+TEXT_COLOR	=FFFFFF
+;RGBではなくBGRの順で
+BG_COLOR	=000000
+;同上
+
+TABS		=04
+
+LAYER		=A0
+;0xFFで透過しない
+;0x00で画面が消える
+;0x10あたりから視認できなくなる
+
+MARGIN_X	=05
+MARGIN_Y	=05
+;縦横のマージン
